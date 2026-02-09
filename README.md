@@ -35,7 +35,7 @@ Why use WeShop AI?
 
 ---
 
-Ever since the days when we could only “tell stories” with text and the first/last frames, we’ve wanted to build a video model that truly understands what you’re trying to express. Today, it’s really here!
+Ever since the days when we could only “tell stories” with text and the first/last frames, we’ve wanted to build a video model that truly understands what you’re trying to express.
 
 ## 🤔 What is Seedance 2.0
 
