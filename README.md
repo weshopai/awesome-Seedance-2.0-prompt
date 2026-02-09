@@ -245,11 +245,124 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
+### No. 4: Chess Game 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+参考 @视频1的所有转场和运镜，一镜到底，画面以棋局为起始，镜头左移，展示地板的黄色沙砾，镜头上移来到一个沙滩，沙滩上有足印，一个穿着白色素衣的女生在沙滩上渐行渐远，镜头切到空中的俯拍视角，海水在冲刷（不要出现人物），无缝渐变转场，冲刷的海浪变成飘动的窗帘，镜头拉远，展示女孩的面部特写，一镜到底
+```
+
+#### reference
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/bd4c92c7-4033-4cc7-9856-ce90d9cf9a58"> </video>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/a295ebea-8cf2-4752-bc70-3085c51ffd1c"> </video>
+
+</div>
+
+### No. 5
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+0-2秒画面：快速四格闪切，红、粉、紫、豹纹四款蝴蝶结依次定格，特写缎面光泽与“cheri” 品牌字样。画外音“Cheri人卫岩l0
+로 무궁무진한 아름다움을 연출해 보세요!"
+3-6秒画面：特写银色磁吸扣“咔嗒”吸合，再轻轻一拉分开，展
+리스; 도드토보. "단 1초 만에 잠그고, 최고의 스타일을 완 성하세요!"
+7-12 秒画面：快速切换佩戴场景：酒红款别在大衣领口，通勤氛围感拉满；粉色款绑在马尾，甜妹出街；紫色款系在包带，小众高级；豹纹款挂在西装领，辣妹气场全开。画外音“丑三，7，引
+어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!"
+13-15秒画面：四款蝴蝶结并排陈列，品牌名 “cheri， 今引
+적인 아름다움을 선사합니다!
+```
+
+#### reference
+<div align="center">
+
+<img width="629" height="838" alt="1-5-reference" src="https://github.com/user-attachments/assets/1bb0df0d-d2d8-41e8-bdab-51dc34b7f801" />
+
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/7c561ba5-87b4-4a14-8a12-9d0e0edbe828
+
+</div>
+
+### No. 6
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+对@图片2的包包进行商业化的摄像展示，包包的侧面参考@图片1，包包的表面材质参考®图片3，要求将包包的细节均有所展示，背景音恢宏大气
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1440" height="2560" alt="1-6-reference3" src="https://github.com/user-attachments/assets/f582cc39-eaf7-4fde-bade-29cb97e708d4" /></td>
+    <td><img width="1440" height="2560" alt="1-6-reference2" src="https://github.com/user-attachments/assets/d5ab7741-40de-41ee-845c-745583704baf" /></td>
+    <td><img width="1280" height="720" alt="1-6-reference1" src="https://github.com/user-attachments/assets/e88e49bf-e9a8-4e0a-b33d-b25824a71c97" /></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/c7b09bb8-9529-4949-903f-e9d6660d2ab6
+
+</div>
+
+### No. 7
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+对@图片2的包包进行商业化的摄像展示，包包的侧面参考@图片1，包包的表面材质参考®图片3，要求将包包的细节均有所展示，背景音恢宏大气
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="1-7-reference" src="https://github.com/user-attachments/assets/33805788-0a36-410f-bc92-5288cf83cd91" />
+</td>
+    <td><img width="1280" height="720" alt="1-7-reference2" src="https://github.com/user-attachments/assets/fb1ea46f-b9f9-4f1a-8b8f-325e3c3bc614" />
+</td>
+    <td><img width="1280" height="720" alt="1-7-reference3" src="https://github.com/user-attachments/assets/ead5f01c-b271-4070-b271-ceed80033e21" />
+</td>
+    <td><img width="1280" height="720" alt="1-7-reference4" src="https://github.com/user-attachments/assets/66491595-ede0-496c-af21-6be46ec02dda" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/cdab9802-c849-4137-a061-db5b72846c0c"></video>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/8d5312fb-b2fc-417f-aa30-61171e68e8b6
+
+</div>
+
 ## 2.3.2 高难度
 
 ## 2.3.3 创意模版
 
-## 2.3.4 剧情补全能力
 ## 2.3.4 剧情补全能力
 ### No. 1: Funny comics
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
@@ -264,8 +377,8 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 <div align="center">
 <table>
   <tr>
-    <td><img src="/assets/【2.3.4】-1.jpeg"></td>
-    <td><video src="https://github.com/user-attachments/assets/f559e483-a672-4ca3-a441-76af7269fbb7"> </video></td>
+    <td width="50%"><img src="/assets/【2.3.4】-1.jpeg"></td>
+    <td align="center"><video src="https://github.com/user-attachments/assets/f559e483-a672-4ca3-a441-76af7269fbb7"; width="100%"> </video></td>
   </tr>
 </table>
 </div>
