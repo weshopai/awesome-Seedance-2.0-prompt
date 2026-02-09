@@ -167,7 +167,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 ## 2.3.1 一致性
 
-### : title
+### No. 1: Man coming home
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
