@@ -15,8 +15,10 @@
   
 </div>
 
+<div align="center">
+  
 Why use WeShop AI?
-
+  
 | Feature | WeShop AI | Others |
 |------|-----------|--------|
 | ⚙️ Workflow Setup | One-click generation | Manual settup & complecated steps |
@@ -24,6 +26,8 @@ Why use WeShop AI?
 | 🚀 Batch Generation | Fast batch generation at scale | Slow or manual batching |
 | 🤖 AI Automation | End-to-end AI generation in one place | Fragmented tools |
 | 📱 Accessibility | Web-based, efficient, and easy to use | Requires installations or tool-dependent |
+
+</div>
 
 ---
 
@@ -188,6 +192,30 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 <div align="center">
 
 <video src="https://github.com/user-attachments/assets/8ecd5bf4-e47a-4456-801c-b8d70e63388d"> </video>
+
+</div>
+
+### No. 2: Man coming home
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+将@视频1中的女生换成戏曲花旦，场景在一个精美的舞台上，参考@视频1的运镜和转场效果，利用镜头匹配人物的动作，极致的舞台美感，增强视觉冲击力。
+```
+
+#### reference
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/d1c59023-c223-4e97-84d6-8b6cc049d97d"> </video>
+  
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/25b864f1-102d-4cf6-8c78-f381dafea158"> </video>
 
 </div>
 
