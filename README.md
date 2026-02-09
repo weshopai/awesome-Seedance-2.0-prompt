@@ -247,7 +247,10 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 <div>
 <table>
   <tr>
-    <td><video src="[https://github.com/user-attachmenhts/assets/jimeng-2026-02-03-4484-中景拍摄，古装服饰的一对男女主角，站在桥上赏月.mp4](https://github.com/user-attachments/assets/115c0021-b0dd-4b54-9953-111d3164cf6f)"></video></td>
+
+
+
+    <td><video src="https://github.com/user-attachments/assets/abd1bde9-cb48-4c6b-adb1-38c6d9407a76"> </video></td>
     
   </tr>
 
