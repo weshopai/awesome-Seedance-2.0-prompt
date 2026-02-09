@@ -282,22 +282,11 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
   
 </div>
 
-
-
-
-    
-    
-
-
 #### 🖼️ Generated Video
 
 <div align="center">
 
 <video src="https://github.com/user-attachments/assets/fe6489d5-33dc-403c-bc91-fd40f28ba015"> </video>
-
-
-
-
 
 </div>
 
@@ -321,22 +310,9 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
     <td><video src="https://github.com/user-attachments/assets/ea0b796c-62c8-4a56-bb67-007e405db73d"> </video></td>
   </tr>
 
-
-
-
 </table>
   
 </div>
-
-
-
-
-
-
-
-
-    
-    
 
 
 #### 🖼️ Generated Video
@@ -347,8 +323,73 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div
 
+### No. 4
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+将视频1女人发型变成红色长发，图片1中的大白鲨缓缓浮出半个脑袋，在她身后。
+```
+
+#### reference
+<div>
+
+<table>
+  <tr>
+     <td><img src="/assets/2384.png"></td>
+    <td><video src="https://github.com/user-attachments/assets/3cf6c13d-83b9-4ef6-a6f0-60373b50fc50"> </video></td>
+  </tr>
 
 
+
+</table>
+  
+</div>
+
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/461a8412-9c36-4650-a947-8858bd35ac5d"> </video>
+
+</div
+
+### No. 5
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+视频1镜头右摇，炸鸡老板忙碌地将炸鸡递给排队的客户，用普通话说“做完他的，做你的，大家文明排队。”一说完，就去拿纸袋子去装炸鸡。特写展示老板拿印有图1的纸袋子，特写展示递给客户的手部特写。
+```
+
+#### reference
+<div>
+
+<table>
+  <tr>
+     <td><img src="/assets/2385.png"></td>
+    <td><video src="https://github.com/user-attachments/assets/de767a61-fc7e-42fe-9d0b-9435b58ab982"> </video></td>
+  </tr>
+
+
+
+</table>
+  
+</div>
+
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/49ce8ae6-a9b6-462e-b4d4-cbfe0cbc7ed1"> </video>
+
+</div
 
 
 ## 2.3.9 音乐卡点
