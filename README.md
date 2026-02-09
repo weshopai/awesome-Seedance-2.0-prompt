@@ -101,5 +101,31 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
+### No. 3: Line Drawing Animation
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+镜头小幅度拉远（露出街头全景）并跟随女主移动，风吹拂着女主的裙摆，女主走在19世纪的伦敦大街上；女主走着走着右边街道驶来一辆蒸汽机车，快速驶过女主身旁，风将女主的裙摆吹起，女主一脸震惊的赶忙用双手向下捂住裙摆；背景音效为走路声，人群声，汽车声等等
+```
+
+### reference
+
+<div align="center">
+  
+![Intimate photo shoot of a women generated image](/assets/3-reference.png)
+  
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/710dfa48-f3ef-4ec0-9d4c-4e123d56381c"> </video>
+
+</div>
+
 
 
