@@ -63,7 +63,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 <div align="center">
   
-![Intimate photo shoot of a women generated image](/assets/1-reference.png)
+![1-reference](/assets/1-reference.png)
   
 </div>
 
@@ -89,7 +89,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 <div align="center">
   
-![Intimate photo shoot of a women generated image](/assets/2-reference.png)
+![2-reference](/assets/2-reference.png)
   
 </div>
 
@@ -115,7 +115,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 <div align="center">
   
-![Intimate photo shoot of a women generated image](/assets/3-reference.png)
+![3-reference](/assets/3-reference.png)
   
 </div>
 
@@ -127,5 +127,29 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
+### No. 4: Man running from crowd
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+镜头跟随黑衣男子快速逃亡，后面一群人在追，镜头转为侧面跟拍，人物惊慌撞倒路边的水果摊爬起来继续逃，人群慌乱的声音。
+```
+
+### reference
+
+<div align="center">
+  
+![4-reference](/assets/4-reference.png)
+  
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/9d399219-0e3b-4fc2-84f5-862a3d1da7be"> </video>
+
+</div>
 
 
