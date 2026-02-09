@@ -33,7 +33,7 @@ Why use WeShop AI?
 - [🤔 What is Seedance 2.0?](#-what-is-seedance-20)
 - [✍️ All Prompts](#-all-prompts)
   - [Basic Abilities](#basic-abilities)
-  - 
+  - [yizhixing](#
 ---
 
 Ever since the days when we could only “tell stories” with text and the first/last frames, we’ve wanted to build a video model that truly understands what you’re trying to express.
@@ -156,4 +156,26 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
+### No. 5: title
+![Language-中](https://img.shields.io/badge/Language-中-orange)
 
+#### 📝 Prompt
+
+```
+男人@图片1下班后疲惫的走在走廊，脚步变缓，最后停在家门口，脸部特写镜头，男人深呼吸，调整情绪，收起了负面情绪，变得轻松，然后特写翻找出钥匙，插入门锁，进入家里后，他的小女儿和一只宠物狗，欢快的跑过来迎接拥抱，室内非常的温馨，全程自然对话
+```
+
+#### reference
+<div align="center">
+  
+![5-reference](/assets/5-reference.png)
+  
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/8ecd5bf4-e47a-4456-801c-b8d70e63388d"> </video>
+
+</div>
