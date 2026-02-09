@@ -19,9 +19,9 @@ Why use WeShop AI?
 
 | Feature | WeShop AI | Others |
 |------|-----------|--------|
-| ⚙️ Workflow Setup | No workflow setup — one-click generation | Manual pipeline and workflow building and configuration |
+| ⚙️ Workflow Setup | One-click generation | Manual settup & complecated steps |
 | 🧠 Prompt Examples | Rich, ready-to-use prompt templates & cases | Limited or user-created |
-| 🚀 Batch Generation | Fast batch image generation at scale | Slow or manual batching |
+| 🚀 Batch Generation | Fast batch generation at scale | Slow or manual batching |
 | 🤖 AI Automation | End-to-end AI generation in one place | Fragmented tools |
 | 📱 Accessibility | Web-based, efficient, and easy to use | Requires installations or tool-dependent |
 
@@ -49,7 +49,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 📚 Learn More: [Seedance 2.0 Documentation](https://waytoagi.feishu.cn/wiki/XhA5wVLW8itFYxkCteDcELETnXe)
 
 ## 📋 All Prompts
-### No. 1: title
+### No. 1: Girl hanging clothes
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
