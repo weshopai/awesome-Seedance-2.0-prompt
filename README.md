@@ -416,22 +416,53 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
     <td><video src="https://github.com/user-attachments/assets/a4c0ea56-45a1-443c-ad61-dfeb96bfcc3a"> </video></td>
   </tr>
 
-
-
-
-
-
-
 </table>
   
 </div>
-
 
 #### 🖼️ Generated Video
 
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/49ce8ae6-a9b6-462e-b4d4-cbfe0cbc7ed1"> </video>
+<video src="https://github.com/user-attachments/assets/ff9b2a41-8dfa-4f7f-b9d9-d68769d8ba7d"> </video>
+
+</div
+
+### No. 2
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+@图片1@图片2@图片3@图片4@图片5@图片6@图片7中的图片根据@视频中的画面关键帧的位置和整体节奏进行卡点，画面中的人物更有动感，整体画面风格更梦幻，画面张力强，可根据音乐及画面需求自行改变参考图的景别，及补充画面的光影变化
+```
+
+#### reference
+<div>
+
+<table>
+  <tr>
+    <td><img src="/assets/23921.png"></td>
+    <td><img src="/assets/23922.png"></td>
+    <td><img src="/assets/23923.png"></td>
+    <td><img src="/assets/23924.png"></td>
+    <td><img src="/assets/23923.png"></td>
+    <td><img src="/assets/23924.png"></td>
+    <td><img src="/assets/23925.png"></td>
+    <td><img src="/assets/23926.png"></td>
+    <td><video src="https://github.com/user-attachments/assets/0b25cbce-dfe4-4f08-acd0-808b30d5435f"> </video></td>
+  </tr>
+
+</table>
+  
+</div>
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/8a7d5316-1838-4ec0-babb-f086258c76c1"> </video>
 
 </div
 
