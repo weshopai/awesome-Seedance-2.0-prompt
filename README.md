@@ -298,7 +298,42 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 </div>
 
 
+### No. 3
 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+视频1中的女主唱换成图片1的男主唱，动作完全模仿原视频，不要出现切镜，乐队演唱音乐。
+```
+
+#### reference
+<div>
+
+<table>
+  <tr>
+    <td><img src="/assets/5-reference.png"></td>
+    <td><video src="https://github.com/user-attachments/assets/25b864f1-102d-4cf6-8c78-f381dafea158"> </video></td>
+  </tr>
+</table>
+  
+</div>
+
+
+
+
+    
+    
+
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/a8cdc9f3-155c-4675-afd6-9b5e674db992"> </video>
+
+</div
 
 
 
