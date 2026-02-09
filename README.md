@@ -467,3 +467,102 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 </div
 
 ## 2.3.10 情绪演绎
+### No. 1
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+@图片1的女子走到镜子前，看着镜子里面的自己，姿势参考@图片2，沉思了一会突然开始崩溃大叫，抓镜子的动作崩溃大叫的情绪和表情完全参考@视频1。
+
+```
+
+#### reference
+<div>
+
+<table>
+  <tr>
+    <td><img src="/assets/231011.png"></td>
+    <td><img src="/assets/231012.png"></td>
+    <td><video src="https://github.com/user-attachments/assets/18fc7a72-38d1-45f3-a5ee-bc65f045d955"> </video></td>
+  </tr>
+</table>
+  
+</div>
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/ac935bd2-75af-4ef3-a2e7-15f0e2ad05ef"> </video>
+
+</div
+
+### No. 2
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+这是一个油烟机广告，@图片1作为首帧画面，女人在优雅的做饭，没有烟雾，镜头快速向右边摇动，拍摄@图片2男人满头大汗面红耳赤在做饭，浓烟滚滚，镜头向左边摇动推进拍摄@图片1桌面上的一个油烟机，油烟机参考@图片4，油烟机在疯狂抽烟。
+
+```
+
+#### reference
+<div>
+
+<table>
+  <tr>
+    <td><img src="/assets/231021.png"></td>
+    <td><img src="/assets/231022.png"></td>
+    <td><img src="/assets/231023.png"></td>
+    <td><img src="/assets/231024.png"></td>
+    
+  </tr>
+</table>
+  
+</div>
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/5d466628-00d2-4298-a9fd-e3c0f6247b14"> </video>
+
+</div
+
+### No. 3
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+@图片1作为画面的首帧图，镜头旋转推近，人物突然抬头，人物面部长相参考@图片2，开始大声咆哮，激动带有一些喜剧色彩，参考@图片3的表情神态。然后人物身体变身成为一只熊，参考@图片4。
+
+```
+
+#### reference
+<div>
+
+<table>
+  <tr>
+    <td><img src="/assets/231031.png"></td>
+    <td><img src="/assets/231032.png"></td>
+    <td><img src="/assets/231033.png"></td>
+    <td><img src="/assets/231034.png"></td>
+    
+  </tr>
+</table>
+  
+</div>
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/e876c601-9dfe-4abd-b020-7d9d19ce81b3"> </video>
+
+</div
