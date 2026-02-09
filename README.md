@@ -250,8 +250,199 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 ## 2.3.3 创意模版
 
 ## 2.3.4 剧情补全能力
+## 2.3.4 剧情补全能力
+### No. 1: Funny comics
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+将@图1以从左到右从上到下的顺序进行漫画演绎，保持人物说的台词与图片上的一致，分镜切换以及重点的情节演绎加入特殊音效，整体风格诙谐幽默；演绎方式参考@视频1
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img src="/assets/【2.3.4】-1.jpeg"></td>
+    <td><video src="https://github.com/user-attachments/assets/f559e483-a672-4ca3-a441-76af7269fbb7"> </video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/ac75f061-d2fe-4570-8304-cd39f5382cc8"> </video>
+
+</div>
+
+### No. 2: Humorous comics
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+参考@图片1的专题片的分镜头脚本，参考@图片1的分镜、景别、运镜、画面和文案，创作一段15s的关于“童年的四季”的治愈系片头
+```
+
+#### reference
+<div align="center">
+  
+![【2.4.4】-4](assets/【2.3.4】-4.png)
+  
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/987249a2-f98d-4ffe-bb4f-397421de3dc5"> </video>
+
+</div>
+
+### No. 3: The Four Seasons of Childhood
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+参考视频1的音频，根据图1、图2、图3、图4、图5为灵感，发散出一条情绪向的视频。背景音乐参考@视频1
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img src="/assets/【2.3.4】-6.png"></td>
+    <td><img src="/assets/【2.3.4】-7.png"></td>
+    <td><img src="/assets/【2.3.4】-8.png"></td>
+    <td><img src="/assets/【2.3.4】-9.png"></td>
+    <td><img src="/assets/【2.3.4】-10.png"></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/42ab4c14-e3d7-46fd-95e6-92480c50a066"> </video>
+
+</div>
 
 ## 2.3.5 视频延长
+### No. 1: Creative Ads
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+延长15s视频，参考@图片1、@图片2的驴骑摩托车的形象，补充一段脑洞广告
+画面1：侧面固定镜头，驴骑着摩托车冲出棚栏，旁边的鸡受到惊吓，
+画面2：驴骑着摩托在沙地盘旋，先特写摩托轮胎，再切到半空中俯拍驴骑着摩托车做着盘旋特技，掀起烟雾
+画面3：背景是雪山镜头，驴骑着车从山坡飞越过，广告语在主体背后，通过遮罩的形式（驴和摩托车飞过时）中间出现"Inspire Creativity,Enrich Life"，最后在摩托飞过，扬起一阵尘烟
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img src="/assets/【2.3.4】-11.png"></td>
+    <td><img src="/assets/【2.3.4】-12.png"></td>
+    <td><video src="https://github.com/user-attachments/assets/c9c914bb-0e93-4731-baae-de3644cd5664"> </video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/a78c6910-03bb-4786-97b7-a763d039c890"> </video>
+
+</div>
+
+### No. 2: Sports Advertising
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+将视频延长6s，出现电吉他的激昂音乐，视频中间出现“JUST DO IT”的广告字体后逐渐淡化，镜头上移到天花板，一个健硕的男人拉着吊环，上半身穿着@图1的紧身健身服，背面印有@图2的“Fitness”logo，男人用健硕的上肢拉上吊环，随后视频中间出现“DO SOME SPORT”的广告结束字体。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img src="/assets/【2.3.4】-15.png"></td>
+    <td><img src="/assets/【2.3.4】-16.png"></td>
+    <td><video src="https://github.com/user-attachments/assets/3a1f4271-f146-4e2c-b2d0-f6ce9a35eab0"> </video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/842bd585-6bf0-48b1-9cb6-f5d978c4752f"> </video>
+
+</div>
+
+### No. 2: Afternoon Sunshine
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+将@视频1延长15秒。1-5秒:光影透过百叶窗在木桌、杯身上缓缓滑过，树枝伴随着轻微呼吸般的晃动。6-10秒:一粒咖啡豆从画面上方轻轻飘落，镜头向咖啡豆推进至画面黑屏。11-15秒:英文渐显第行“Lucky Coffee”，第二行“Breakfast”，第三行“AM 7:00-10:00”
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><video src="https://github.com/user-attachments/assets/c297dd29-92ee-43bc-a0c1-6f811da18a6e"> </video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/dfcc6298-4998-4c25-9b59-b2f0aa606ec7"> </video>
+
+</div>
+
+### No. 2: skateboard boy
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+向前延长10s，温暖的午后光线里，镜头先从街角那排被微风掀动的遮阳篷开始，慢慢下移到墙根处几株探出头的小雏菊。紧接着，画面里出现主人公的红色板鞋，他正蹲在街边花摊前，笑着把一大捧向日葵拢进怀里，花瓣蹭过他的白丅恤。他转身踏上滑板时，花摊老板笑着喊了句“小心花瓣飞啦!他冲老板挥了挥手，然后才开始滑行，几片金黄的花瓣已经先一步从花束里挣脱出来，落在了滑板的板面。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><video src="https://github.com/user-attachments/assets/6e9bf9c4-1b6a-447a-9630-21b74b932ccd"> </video></td>
+  </tr>
+</table>
+</div>
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/c663549d-66df-468e-8ecf-14578a3614cd"> </video>
+
+</div>
+
 
 ## 2.3.6 音色
 
