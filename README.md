@@ -232,6 +232,34 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 ## 2.3.7 镜头连贯性
 
 ## 2.3.8 视频编辑
+### No. 1
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+女孩在优雅的晒衣服，晒完接着在桶里拿出另一件，用力抖一抖衣服。
+```
+
+#### reference
+
+<div>
+<table>
+  <tr>
+    <td><video src="https://github.com/user-attachmenhts/assets/jimeng-2026-02-03-4484-中景拍摄，古装服饰的一对男女主角，站在桥上赏月.mp4"></video></td>
+    
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/f6a5e35e-b6ec-4081-a65d-8bc7c070800b"> </video>
+
+</div>
 
 ## 2.3.9 音乐卡点
 
