@@ -394,5 +394,45 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 
 ## 2.3.9 音乐卡点
+### No. 1
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+海报中的女生在不停的换装，服装参考@图片1@图片2的样式，手中提着@图片3的包，视频节奏参考@视频
+```
+
+#### reference
+<div>
+
+<table>
+  <tr>
+    <td><img src="/assets/23911.png"></td>
+    <td><img src="/assets/23912.png"></td>
+    <td><img src="/assets/23913.png"></td>
+    <td><img src="/assets/23914.png"></td>
+    <td><video src="https://github.com/user-attachments/assets/a4c0ea56-45a1-443c-ad61-dfeb96bfcc3a"> </video></td>
+  </tr>
+
+
+
+
+
+
+
+</table>
+  
+</div>
+
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/49ce8ae6-a9b6-462e-b4d4-cbfe0cbc7ed1"> </video>
+
+</div
 
 ## 2.3.10 情绪演绎
