@@ -32,7 +32,8 @@ Why use WeShop AI?
 - [🤖 Try it in WeShop AI](#-try-it-in-weshop-ai)
 - [🤔 What is Seedance 2.0?](#-what-is-seedance-20)
 - [✍️ All Prompts](#-all-prompts)
-
+  - [Basic Abilities](#basic-abilities)
+  - 
 ---
 
 Ever since the days when we could only “tell stories” with text and the first/last frames, we’ve wanted to build a video model that truly understands what you’re trying to express.
@@ -49,6 +50,9 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 📚 Learn More: [Seedance 2.0 Documentation](https://waytoagi.feishu.cn/wiki/XhA5wVLW8itFYxkCteDcELETnXe)
 
 ## 📋 All Prompts
+
+### Basic Abilities
+
 ### No. 1: Girl hanging clothes
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
