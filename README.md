@@ -260,6 +260,46 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
+### No. 2
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+颠覆@视频1的整个剧情
+0–3秒画面：西装男坐在酒吧，神情冷静，手里轻晃酒杯。 镜头缓慢推进，光影高级、氛围严肃。 环境音低沉，西装男小声说“这单生意，很大。”
+3–6秒画面：身后的女人表情紧张问“有多大？”西装男抬眼，压低声音：“非常大。”镜头切手部特写——他把酒杯放下，气场拉满。
+6–9秒画面：突然西装男从桌下掏出—— 一大包体积夸张的零食礼包，“咚”的一声重重放在桌上。
+9–12秒画面：身后的女人原本放在腰间的手，肌肉从僵硬到松弛，整个人表情放松。画面氛围轻松起来。
+13–15秒画面：西装男拿出一包零食给女人，镜头拉远展示酒馆全景，画面变得透明模糊—— 字幕弹出“再忙，也要记得吃点零食~”
+```
+
+#### reference
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/6276a4ee-bd76-40b9-bed7-8e194d3d736a"> </video>
+  
+</div>
+
+
+
+
+    
+    
+
+
+#### 🖼️ Generated Video
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/a8cdc9f3-155c-4675-afd6-9b5e674db992"> </video>
+
+</div>
+
+
+
+
 
 
 
