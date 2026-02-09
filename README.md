@@ -238,8 +238,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 #### 📝 Prompt
 
-```
-女孩在优雅的晒衣服，晒完接着在桶里拿出另一件，用力抖一抖衣服。
+```颠覆@视频1里的剧情，男人眼神从温柔瞬间转为冰冷狠厉，在露丝毫无防备的瞬间，猛地将女主从桥上往外推，把女主推进水里。动作干脆利落，带着蓄谋已久的决绝，没有丝毫犹豫，彻底颠覆原有的深情人物设定。女主坠入水中的瞬间，没有尖叫，只有难以置信的眼神，她抬头冲男主嘶吼：“你从一开始就在骗我！”男主站在桥上上，脸上露出阴冷的笑容，对着水面低声说：“这是你欠我家族的。”
 ```
 
 #### reference
@@ -256,9 +255,13 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/f6a5e35e-b6ec-4081-a65d-8bc7c070800b"> </video>
+<video src="https://github.com/user-attachments/assets/6667c7d9-9d6d-4c31-9eb7-c9adfb346691"> </video>
 
 </div>
+
+
+
+
 
 ## 2.3.9 音乐卡点
 
