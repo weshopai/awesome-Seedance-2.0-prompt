@@ -195,13 +195,39 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
-### No. 2: Man coming home
+### No. 2: Theatrical performance
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
 
 ```
 将@视频1中的女生换成戏曲花旦，场景在一个精美的舞台上，参考@视频1的运镜和转场效果，利用镜头匹配人物的动作，极致的舞台美感，增强视觉冲击力。
+```
+
+#### reference
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/d1c59023-c223-4e97-84d6-8b6cc049d97d"> </video>
+  
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/25b864f1-102d-4cf6-8c78-f381dafea158"> </video>
+
+</div>
+
+### No. 3: Drama Trailer 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+使用参考图片人物的形象生成一段古装穿越剧的预告短片。
+0-3秒画面：参考图片1人物形象的男主手里举起一个篮球，抬头望向镜头。说话“我只是想喝杯酒，该不会要穿越了吧…⋯
+4-8秒画面：镜头突然剧烈晃动，操场的场景开始剧烈震动，瞬间切换成古宅的雨夜。一个穿着古装，长相清秀的女主，冷冽的目光穿透雨幕，望向镜头方向。雷鸣声，衣袂猎猎声。女主说话“何人擅闯我永宁侯府？”9-13秒画面：镜头切到一个穿着明官服的男子坐在衙门里，眼神锐利如刀，愤怒说话“来人！即刻拿下此“妖人’！”画面闪回：男主穿着不合身的粗布麻衣；在官差的围堵下慌不择路；与女主的身影在雨巷里交错；男主穿着官服走在皇宫里。14-15秒画面：黑屏，打出片名《醉梦惊华》，伴随着沉重的鼓点
 ```
 
 #### reference
