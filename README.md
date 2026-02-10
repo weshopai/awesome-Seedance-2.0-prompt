@@ -169,6 +169,8 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
+---
+
 ## Consistency
 
 ### No. 1
@@ -405,10 +407,10 @@ https://github.com/user-attachments/assets/2548e21d-0158-421c-83e0-9f4a2868bdd8
 <div align="center">
 <table>
   <tr>
-    <td><img width="720" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-1" src="https://github.com/user-attachments/assets/68bc252d-51f0-4cca-ad02-5f43456e0ca5" />
+    <td width="15%"><img width="720" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-1" src="https://github.com/user-attachments/assets/68bc252d-51f0-4cca-ad02-5f43456e0ca5" />
 </td>
     <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-21" src="https://github.com/user-attachments/assets/9add3adf-e616-4c42-931b-07e151d2be23" />
-</td>
+    </td>
     <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-22" src="https://github.com/user-attachments/assets/dd23f68b-beb1-4086-b1a0-93e99f4411e0" />
 </td>
     <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-23" src="https://github.com/user-attachments/assets/e877acb2-bcd3-4258-bb39-9f8151a1f629" />
@@ -597,7 +599,7 @@ https://github.com/user-attachments/assets/0cff1c54-1476-4eea-b8ab-18525a670f1a
 <div align="center">
 <table>
   <tr>
-    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-20" src="https://github.com/user-attachments/assets/44018619-62e3-405f-9bd4-51393e9b714e" />
+    <td width="30%"><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-20" src="https://github.com/user-attachments/assets/44018619-62e3-405f-9bd4-51393e9b714e" />
 </td>
     <td><img width="635" height="848" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-38" src="https://github.com/user-attachments/assets/41a9ea68-67fc-428b-8114-4b75a86ad693" /></td>
     <td><video src="https://github.com/user-attachments/assets/5f37435d-0fb6-446c-b9be-6d4a3febe057"></video></td>
@@ -930,7 +932,7 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 <div align="center">
 <table>
   <tr>
-    <td><img src="/assets/【2.3.4】-6.png"></td>
+    <td width="20%"><img src="/assets/【2.3.4】-6.png"></td>
     <td><img src="/assets/【2.3.4】-7.png"></td>
     <td><img src="/assets/【2.3.4】-8.png"></td>
     <td><img src="/assets/【2.3.4】-9.png"></td>
@@ -1265,7 +1267,7 @@ https://github.com/user-attachments/assets/bcdd0f64-5189-4be5-8a1a-b816105c5899
   <tr>
     <td><img width="959" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-jimeng-2026-02-04-1146-这是一张广告级的照片，这张写实摄影风格的图片呈现出一个静谧的室内场景。房间里，一" src="https://github.com/user-attachments/assets/55d5f447-c162-49e8-b474-70a27303d2b8" />
 </td>
-    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-jimeng-2026-02-04-2453-帅哥，现代男性，痞帅疯批风男性，黑色凌乱大背头，冷白皮，冷色调画面。妆容高级暗黑" src="https://github.com/user-attachments/assets/b85826f6-999b-4611-a652-33e81e7b68e3" />
+    <td width="50%"><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-jimeng-2026-02-04-2453-帅哥，现代男性，痞帅疯批风男性，黑色凌乱大背头，冷白皮，冷色调画面。妆容高级暗黑" src="https://github.com/user-attachments/assets/b85826f6-999b-4611-a652-33e81e7b68e3" />
 </td>
     <td> 
       <video src="
@@ -1339,6 +1341,8 @@ https://github.com/user-attachments/assets/b397e734-2ad5-46ad-bc9b-b90f73f163c1
 https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 </div>
+
+---
 
 ## Continuity
 
@@ -1444,38 +1448,6 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 #### 📝 Prompt
 
 ```
-谍战片风格，@图片1作为首帧画面，镜头正面跟拍穿着红风衣的女特工向前走，镜头全景跟随，不断有路人遮挡红衣女子，走到一个拐角处，参考@图片2的拐角建筑，固定镜头红衣女子离开画面，走在拐角处消失，一个戴面具的女孩在拐角处躲着恶狠狠的盯着她，面具女孩形象参考@图片3，只参考形象，女孩站在拐角处。镜头往前摇向红衣女特工，她走进一座豪宅消失不见了，豪宅参考@图片4。全程不要切镜头，一镜到底。
-```
-
-#### reference
-<div align="center">
-<table>
-  <tr>
-    <td><img width="1280" height="717" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-55" src="https://github.com/user-attachments/assets/8026485c-fa88-426f-a708-845a79baa4c3" />
-</td>
-    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-52" src="https://github.com/user-attachments/assets/e4f3f066-3c68-42c4-9402-969f0e6995e9" />
-</td>
-    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-51" src="https://github.com/user-attachments/assets/78eb4da6-2a50-4201-adcc-63b17800042c" />
-</td>
-    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-54" src="https://github.com/user-attachments/assets/f55b7541-178d-4b93-9351-021c846e1aa5" />
-</td>
-  </tr>
-</table>
-</div>
-#### 🖼️ Generated Images
-
-<div align="center">
-
-<video src="https://github.com/user-attachments/assets/bddc65ef-4382-4e14-8bb4-d7d4800596f9"> </video>
-
-</div>
-
-### No. 5: 
-![Language-中](https://img.shields.io/badge/Language-中-orange)
-
-#### 📝 Prompt
-
-```
 根据@图片1外景的镜头，第一人称主观视角快推镜头到木屋内的环境场景近景，一只小鹿@图片2和一只羊@图片3在围炉旁喝茶聊天，镜头推进特写茶杯的样式参考@图片4.
 ```
 
@@ -1502,7 +1474,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 </div>
 
-### No. 6: 
+### No. 5: 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
@@ -1567,6 +1539,8 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 <video src="https://github.com/user-attachments/assets/fc610ea4-6b79-4c00-8014-afa076972878"> </video>
 
 </div>
+
+---
 
 ## Video Edit
 
@@ -1659,7 +1633,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <video src="https://github.com/user-attachments/assets/ccdf5026-7815-4f66-bf7e-66d8ba0bd6e5"> </video>
 
-</div
+</div>
 
 ### No. 4
 
@@ -1676,16 +1650,12 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <table>
   <tr>
-     <td><img src="/assets/2384.png"></td>
+    <td width="50%"><img src="/assets/2384.png"></td>
     <td><video src="https://github.com/user-attachments/assets/3cf6c13d-83b9-4ef6-a6f0-60373b50fc50"> </video></td>
   </tr>
-
-
-
 </table>
   
 </div>
-
 
 
 #### 🖼️ Generated Video
@@ -1694,7 +1664,8 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <video src="https://github.com/user-attachments/assets/461a8412-9c36-4650-a947-8858bd35ac5d"> </video>
 
-</div
+</div>
+
 
 ### No. 5
 
@@ -1711,7 +1682,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <table>
   <tr>
-     <td><img src="/assets/2385.png"></td>
+    <td width="50%"><img src="/assets/2385.png"></td>
     <td><video src="https://github.com/user-attachments/assets/de767a61-fc7e-42fe-9d0b-9435b58ab982"> </video></td>
   </tr>
 
@@ -1728,8 +1699,9 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <video src="https://github.com/user-attachments/assets/49ce8ae6-a9b6-462e-b4d4-cbfe0cbc7ed1"> </video>
 
-</div
+</div>
 
+---
 
 ## Music
 ### No. 1
@@ -1764,7 +1736,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <video src="https://github.com/user-attachments/assets/ff9b2a41-8dfa-4f7f-b9d9-d68769d8ba7d"> </video>
 
-</div
+</div>
 
 ### No. 2
 
@@ -1773,7 +1745,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 #### 📝 Prompt
 
 ```
-@图片1@图片2@图片3@图片4@图片5@图片6@图片7中的图片根据@视频中的画面关键帧的位置和整体节奏进行卡点，画面中的人物更有动感，整体画面风格更梦幻，画面张力强，可根据音乐及画面需求自行改变参考图的景别，及补充画面的光影变化
+@图片1@图片2@图片3@图片4@图片5@图片6中的图片根据@视频中的画面关键帧的位置和整体节奏进行卡点，画面中的人物更有动感，整体画面风格更梦幻，画面张力强，可根据音乐及画面需求自行改变参考图的景别，及补充画面的光影变化
 ```
 
 #### reference
@@ -1783,8 +1755,6 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
   <tr>
     <td><img src="/assets/23921.png"></td>
     <td><img src="/assets/23922.png"></td>
-    <td><img src="/assets/23923.png"></td>
-    <td><img src="/assets/23924.png"></td>
     <td><img src="/assets/23923.png"></td>
     <td><img src="/assets/23924.png"></td>
     <td><img src="/assets/23925.png"></td>
@@ -1836,7 +1806,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <video src="https://github.com/user-attachments/assets/ac935bd2-75af-4ef3-a2e7-15f0e2ad05ef"> </video>
 
-</div
+</div>
 
 ### No. 2
 
@@ -1854,7 +1824,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <table>
   <tr>
-    <td><img src="/assets/231021.png"></td>
+    <td width="25%"><img src="/assets/231021.png"></td>
     <td><img src="/assets/231022.png"></td>
     <td><img src="/assets/231023.png"></td>
     <td><img src="/assets/231024.png"></td>
@@ -1870,7 +1840,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <video src="https://github.com/user-attachments/assets/5d466628-00d2-4298-a9fd-e3c0f6247b14"> </video>
 
-</div
+</div>
 
 ### No. 3
 
@@ -1888,7 +1858,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 <table>
   <tr>
-    <td><img src="/assets/231031.png"></td>
+    <td width="25%"><img src="/assets/231031.png"></td>
     <td><img src="/assets/231032.png"></td>
     <td><img src="/assets/231033.png"></td>
     <td><img src="/assets/231034.png"></td>
