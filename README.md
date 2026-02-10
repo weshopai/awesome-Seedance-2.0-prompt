@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/5c36647f-1970-4709-b729-6d11703f8b56
 # 🤖 Awesome Seedance 2.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
