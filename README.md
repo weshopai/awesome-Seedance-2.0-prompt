@@ -592,22 +592,270 @@ https://github.com/user-attachments/assets/0cff1c54-1476-4eea-b8ab-18525a670f1a
 <div align="center">
 <table>
   <tr>
-    <td>
-<img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-17" src="https://github.com/user-attachments/assets/e14913a8-7e6a-4d8b-9097-4d14bd0a1b94" />
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-20" src="https://github.com/user-attachments/assets/44018619-62e3-405f-9bd4-51393e9b714e" />
 </td>
-    <td><video src="https://github.com/user-attachments/assets/be04648e-09c8-4220-9c2b-290475646f08"></video></td>
+    <td><img width="635" height="848" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-38" src="https://github.com/user-attachments/assets/41a9ea68-67fc-428b-8114-4b75a86ad693" /></td>
+    <td><video src="https://github.com/user-attachments/assets/5f37435d-0fb6-446c-b9be-6d4a3febe057"></video></td>
   </tr>
 </table>
 </div>
 
-#### 🖼️ Generated Images
+#### 🖼️ Generated Results
 
 <div align="center">
 
-https://github.com/user-attachments/assets/0cff1c54-1476-4eea-b8ab-18525a670f1a
+https://github.com/user-attachments/assets/c05efe11-c5ea-4cc2-a92e-3b2cd124b1a1
 
 </div>
 
+### No. 2
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+将@视频1的人物换成@图片1，@图片1为首帧，人物带上虚拟科幻眼镜，参考@视频1的运镜，及近的环绕镜头，从第三人称视角变成人物的主观视角，在AI虚拟眼镜中穿梭，来到@图片2的深邃的蓝色宇宙，出现几架飞船穿梭向远方，镜头跟随飞船穿梭到@图片3的像素世界，镜头低空飞过像素的山林世界，里面的树木生长形式出现，随后视角仰拍，急速穿梭到@图片4的浅绿色纹理的星球，镜头穿梭并掠过星球表面
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-34" src="https://github.com/user-attachments/assets/2208baa7-345b-47aa-bf65-05543dd277d2" />
+
+</td>
+    <td>
+      <img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-33" src="https://github.com/user-attachments/assets/5d713fdb-3999-4c97-b03d-76e4a724007c" />
+</td>
+<td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-31" src="https://github.com/user-attachments/assets/cdff5ec9-efe8-4f66-8c1b-ddf7f4c3f265" />
+</td>
+<td>
+     <img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-37" src="https://github.com/user-attachments/assets/d0596db4-0f0d-4f1c-8506-310bb2de292c" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/9d5d963d-a9df-4d7f-940e-2c31ac4c3b5c"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Results
+
+<div align="center">
+
+https://github.com/user-attachments/assets/94b80476-5ea8-48ea-9a9b-59d21b4e55ed
+
+</div>
+
+
+### No. 3
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果，
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="2304" height="4096" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-40" src="https://github.com/user-attachments/assets/fc8affa3-025d-45dd-8612-1bdad0e833be" />
+</td>
+    <td>
+     <img width="960" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-32" src="https://github.com/user-attachments/assets/faf591bc-ea9a-48f4-b67f-a798bba7e6fa" />
+</td>
+<td><img width="960" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-30" src="https://github.com/user-attachments/assets/2da2833d-0d3d-4e1d-a976-8b3f0a9cb925" />
+</td>
+<td>
+     <img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-39" src="https://github.com/user-attachments/assets/d2932e89-088e-4ceb-a4da-e3f9f5287770" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-35" src="https://github.com/user-attachments/assets/f5cb651e-42ab-4e9d-8dbe-56408fa9de57" /></td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-36" src="https://github.com/user-attachments/assets/50c8caa1-0b5b-4694-a00b-be07affb31fe" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/d2bfecd5-35cb-4fe8-a08c-79b93c380594"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Results
+
+<div align="center">
+
+https://github.com/user-attachments/assets/e8624563-8855-4b1b-ac67-3d431c7be850
+
+</div>
+
+### No. 4
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+参考视频的广告创意，用提供的羽绒服图片，并参考鹅绒图片、天鹅图片，搭配以下广告词“这是根鹅绒，这是暖天鹅，这是能穿的极地天鹅绒羽绒服，新年穿得暖，生活过得暖”，生成新的羽绒服广告视频。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="826" height="1090" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-29" src="https://github.com/user-attachments/assets/65eede57-bfab-4133-ba0c-105ceab261eb" />
+
+</td>
+    <td>
+    <img width="705" height="829" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-28" src="https://github.com/user-attachments/assets/dc93ee8c-77ac-452c-b7c5-b616ddf914b1" />
+
+</td>
+<td><img width="709" height="821" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-27" src="https://github.com/user-attachments/assets/20562493-27b0-4006-b7a4-75d353253580" />
+
+</td>
+    <td><video src="https://github.com/user-attachments/assets/fe0fa42a-47e5-43bd-92fb-eb7b95bf0bb0"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Results
+
+<div align="center">
+
+https://github.com/user-attachments/assets/b30d7b5f-bba6-49c8-b94c-21feb460b76f
+
+</div>
+
+### No. 5
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+黑白水墨风格，@图片1的人物参考@视频1的特效和动作，上演一段水墨太极功夫
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-jimeng-2026-01-30-9991-黑白画面，人物超清多视角图" src="https://github.com/user-attachments/assets/8ac9f089-04f7-4922-bf5b-05adb0d73112" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/d2d470b2-87d7-4db3-9bab-465a4fe7e516"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Results
+
+<div align="center">
+
+https://github.com/user-attachments/assets/3220d387-4290-42d1-abcb-3a5c2f930b66
+
+</div>
+
+### No. 6
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+将@视频1的首帧人物替换成@图片1，完全@参考视频1的特效和动作，手里的花蕊长出玫瑰花瓣，裂纹在脸部向上延伸，逐渐被杂草覆盖，人物双手拂过脸部，杂草变成粒子消散，最后变成@图片2的长相
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="853" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-46" src="https://github.com/user-attachments/assets/ed92a8e3-2f4d-4f8a-9a84-37d94f9cbe3f" />
+</td>
+<td><img width="853" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-47" src="https://github.com/user-attachments/assets/b2c1910f-181b-4314-b1b2-81deb8c61a6c" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/50e3ba88-d749-440a-aea8-e47f3ed576e4"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Results
+
+<div align="center">
+  
+https://github.com/user-attachments/assets/17c3a661-4aca-445a-8462-7320aba09a49
+
+</div>
+
+### No. 7
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+由@图片1的天花板开始，参考@视频1的拼图破碎效果进行转场，“BELIEVE”字体替换成“Seedance”，参考@图2的字体
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-43" src="https://github.com/user-attachments/assets/278c0a90-19ec-426c-b594-9ad17d7f58c5" />
+</td>
+<td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-45" src="https://github.com/user-attachments/assets/681727bd-9b12-4efc-9be2-bdbfe4b6209f" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/53b7c28d-24d1-4494-abbc-1426a9df27c7"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Results
+
+<div align="center">
+
+https://github.com/user-attachments/assets/22cfa13d-22f6-4d32-ba39-1ebdc6eb2e6f
+
+</div>
+
+### No. 8
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+以黑幕开场，参考视频1的粒子特效和材质，金色鎏金材质的沙砾从画面左边飘出并向右覆盖，参考@视频1的粒子吹散效果，@图片1的字体逐渐出现在画面中心
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-44" src="https://github.com/user-attachments/assets/a0ef171f-497d-4968-97ce-086148ffaab9" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/bbdf21a3-ce74-4c3a-a668-88ad43bae888"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Results
+
+<div align="center">
+
+https://github.com/user-attachments/assets/c743ba95-d2db-4fe4-8abb-171351019bbd
+
+</div>
+
+### No. 9
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+@图片1的人物参考@视频1中的动作和表情变化，展示吃泡面的抽象行为
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-jimeng-2026-01-23-6713-换一个角色" src="https://github.com/user-attachments/assets/d55a1977-8293-40e3-bd23-fc9f971239ef" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/95129357-0510-44c5-adde-79a58b68ce25"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Results
+
+<div align="center">
+
+https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
+
+</div>
 
 ## 2.3.4 剧情补全能力
 ### No. 1: Funny comics
