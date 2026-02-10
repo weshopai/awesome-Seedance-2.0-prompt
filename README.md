@@ -468,7 +468,7 @@ https://github.com/user-attachments/assets/788e61fd-e4fa-4b0d-b39a-067b4a4e02c8
 <div align="center">
 <table>
   <tr>
-    <td>![image (9)](https://github.com/user-attachments/assets/124b5261-3825-4790-ac09-ea5ee2dcb5cd)
+    <td width="50%"> <img src="https://github.com/user-attachments/assets/124b5261-3825-4790-ac09-ea5ee2dcb5cd">
 </td>
     <td><video src="https://github.com/user-attachments/assets/9cf25852-f93d-45b8-8885-f85ebf33762f"></video></td>
   </tr>
@@ -564,7 +564,7 @@ https://github.com/user-attachments/assets/4f850e0b-fd94-401b-83f0-602cb4364a31
 <table>
   <tr>
     <td>
-<img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-17" src="https://github.com/user-attachments/assets/e14913a8-7e6a-4d8b-9097-4d14bd0a1b94" />
+<img width="426" height="770" alt="Screenshot 2026-02-10 at 4 32 52 PM" src="https://github.com/user-attachments/assets/f49c1942-1311-47e8-a0ab-b1231e944375" />
 </td>
     <td><video src="https://github.com/user-attachments/assets/be04648e-09c8-4220-9c2b-290475646f08"></video></td>
   </tr>
