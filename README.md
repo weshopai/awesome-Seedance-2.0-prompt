@@ -358,6 +358,115 @@ https://github.com/user-attachments/assets/8d5312fb-b2fc-417f-aa30-61171e68e8b6
 
 ## 2.3.2 高难度
 
+### No. 1
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+参考@图1的男人形象，他在@图2的电梯中，完全参考@视频1的所有运镜效果还有主角的面部表情，主角在惊恐时希区柯克变焦，然后几个环绕镜头展示电梯内视角，电梯门打开，跟随镜头走出电梯，电梯外场景参考@图片3，男人环顾四周，参考@视频1用机械臂多角度跟随人物的视线
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="720" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-1" src="https://github.com/user-attachments/assets/68bc252d-51f0-4cca-ad02-5f43456e0ca5" />
+</td>
+    <td><img width="1078" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-2" src="https://github.com/user-attachments/assets/e2d2b385-4b6b-4800-b76e-500d57570182" />
+</td>
+    <td><img width="1280" height="960" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-3" src="https://github.com/user-attachments/assets/332b3e96-34d4-43e8-90f9-8f0e83a0a884" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/8adf33e0-4f05-4746-8069-34fb833a4dbd"></video>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/2548e21d-0158-421c-83e0-9f4a2868bdd8
+
+</div>
+
+### No. 2
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+参考@图1的男人形象，他在@图2的走廊中，完全参考@视频1的所有运镜效果，还有主角的面部表情，镜头跟随主角在@图2拐角奔跑，然后在@图3的长廊里，镜头从背面的跟随视角，通过低视角环绕到主角正面；镜头再右摇90度拍摄@图片4的分叉路口，急停后右摇180度，怼脸拍摄主角正面：主角气喘吁吁，镜头跟随主角的视角环顾四周，参考@视频1里急速的左右环绕运镜展示场景，后拉到@图片5的场景，继续跟拍主角奔跑的侧面视角
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="720" height="1280" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-1" src="https://github.com/user-attachments/assets/68bc252d-51f0-4cca-ad02-5f43456e0ca5" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-21" src="https://github.com/user-attachments/assets/9add3adf-e616-4c42-931b-07e151d2be23" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-22" src="https://github.com/user-attachments/assets/dd23f68b-beb1-4086-b1a0-93e99f4411e0" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-23" src="https://github.com/user-attachments/assets/e877acb2-bcd3-4258-bb39-9f8151a1f629" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-24" src="https://github.com/user-attachments/assets/036f3702-33f3-473c-b484-827ad5bd96e4" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/5bde447c-9c0e-4edf-a61e-dc04e38cde23"></video>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/ba4ab046-b174-4624-a37c-64f9c25a2e09
+
+</div>
+
+
+### No. 3
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+@图片1的平板电脑作为主体，运镜参考@视频1，推近到屏幕的特写，镜头旋转后平板反转展示全貌，屏幕中的数据流一直在变化，周围的环境逐渐变成科幻风格的数据空间
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-jimeng-2026-02-04-9265-科幻平板电脑正面展示图，在画面中心，全身，屏幕上正在运行的数据" src="https://github.com/user-attachments/assets/639526e7-2536-4125-a852-967b9745b1b0" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-21" src="https://github.com/user-attachments/assets/9add3adf-e616-4c42-931b-07e151d2be23" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-22" src="https://github.com/user-attachments/assets/dd23f68b-beb1-4086-b1a0-93e99f4411e0" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-23" src="https://github.com/user-attachments/assets/e877acb2-bcd3-4258-bb39-9f8151a1f629" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-24" src="https://github.com/user-attachments/assets/036f3702-33f3-473c-b484-827ad5bd96e4" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/4feb3210-84c3-48a2-a292-bdacdc0bcdb6"></video>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/788e61fd-e4fa-4b0d-b39a-067b4a4e02c8
+
+</div>
+
+
+
+
+
 ## 2.3.3 创意模版
 
 ## 2.3.4 剧情补全能力
