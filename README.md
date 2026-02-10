@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/5c36647f-1970-4709-b729-6d11703f8b56
 # 🤖 Awesome Seedance 2.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -1055,7 +1057,234 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 
 ## 2.3.7 镜头连贯性
 
+### No. 1: 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+@图片1@图片2@图片3@图片4@图片5，一镜到底的追踪镜头，从街头跟随跑步者上楼梯、穿过走廊、进入屋顶，最终俯瞰城市。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-61" src="https://github.com/user-attachments/assets/fbf6bc39-6039-4fb5-9254-4437f5b79648" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-60" src="https://github.com/user-attachments/assets/2cf62cf9-165a-4882-b6f9-0471f352c76f" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-59" src="https://github.com/user-attachments/assets/f9818fa0-8ba4-4aaa-8a90-6873cda3698a" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-58" src="https://github.com/user-attachments/assets/1d36e4a9-b61e-4f68-aad7-ff898ce8c1ee" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-57" src="https://github.com/user-attachments/assets/4e77343d-0578-45d2-9bfe-ee8b12b58b7a" />
+</td>
+  </tr>
+</table>
+</div>
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/6b339932-46e6-4697-a223-9c91f6bd1ef8"> </video>
+
+</div>
+
+### No. 2: 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+以@图片1为首帧，画面放大至飞机舷窗外，一团团云朵缓缓飘至画面中，其中一朵为彩色糖豆点缀的云朵，始终在画面中居中，然后缓缓变形为@图片2的冰淇淋，镜头推远回到机舱内，坐在窗边的@图片3伸手从窗外拿进冰淇淋，吃了一口，嘴巴上沾满奶油，脸上洋溢出甜蜜的笑容，此时视频配音为@视频1.
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-63" src="https://github.com/user-attachments/assets/8ad0975d-c438-461c-9612-0baceb06e804" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-62" src="https://github.com/user-attachments/assets/c2deba66-bc28-4a7e-9c84-f79849777fff" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-56" src="https://github.com/user-attachments/assets/f18963bd-f66f-4cf5-9cc9-7bbbde929d76" />
+</td>
+  </tr>
+</table>
+</div>
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/409336ae-2720-4b56-80c7-691c5b129bfe"> </video>
+
+</div>
+
+### No. 3: 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+谍战片风格，@图片1作为首帧画面，镜头正面跟拍穿着红风衣的女特工向前走，镜头全景跟随，不断有路人遮挡红衣女子，走到一个拐角处，参考@图片2的拐角建筑，固定镜头红衣女子离开画面，走在拐角处消失，一个戴面具的女孩在拐角处躲着恶狠狠的盯着她，面具女孩形象参考@图片3，只参考形象，女孩站在拐角处。镜头往前摇向红衣女特工，她走进一座豪宅消失不见了，豪宅参考@图片4。全程不要切镜头，一镜到底。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="717" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-55" src="https://github.com/user-attachments/assets/8026485c-fa88-426f-a708-845a79baa4c3" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-52" src="https://github.com/user-attachments/assets/e4f3f066-3c68-42c4-9402-969f0e6995e9" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-51" src="https://github.com/user-attachments/assets/78eb4da6-2a50-4201-adcc-63b17800042c" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-54" src="https://github.com/user-attachments/assets/f55b7541-178d-4b93-9351-021c846e1aa5" />
+</td>
+  </tr>
+</table>
+</div>
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/bddc65ef-4382-4e14-8bb4-d7d4800596f9"> </video>
+
+</div>
+
+### No. 4: 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+谍战片风格，@图片1作为首帧画面，镜头正面跟拍穿着红风衣的女特工向前走，镜头全景跟随，不断有路人遮挡红衣女子，走到一个拐角处，参考@图片2的拐角建筑，固定镜头红衣女子离开画面，走在拐角处消失，一个戴面具的女孩在拐角处躲着恶狠狠的盯着她，面具女孩形象参考@图片3，只参考形象，女孩站在拐角处。镜头往前摇向红衣女特工，她走进一座豪宅消失不见了，豪宅参考@图片4。全程不要切镜头，一镜到底。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="717" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-55" src="https://github.com/user-attachments/assets/8026485c-fa88-426f-a708-845a79baa4c3" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-52" src="https://github.com/user-attachments/assets/e4f3f066-3c68-42c4-9402-969f0e6995e9" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-51" src="https://github.com/user-attachments/assets/78eb4da6-2a50-4201-adcc-63b17800042c" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-54" src="https://github.com/user-attachments/assets/f55b7541-178d-4b93-9351-021c846e1aa5" />
+</td>
+  </tr>
+</table>
+</div>
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/bddc65ef-4382-4e14-8bb4-d7d4800596f9"> </video>
+
+</div>
+
+### No. 5: 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+根据@图片1外景的镜头，第一人称主观视角快推镜头到木屋内的环境场景近景，一只小鹿@图片2和一只羊@图片3在围炉旁喝茶聊天，镜头推进特写茶杯的样式参考@图片4.
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-53" src="https://github.com/user-attachments/assets/ac22a942-fa31-4f90-959d-a0f29ba8a47d" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-50" src="https://github.com/user-attachments/assets/79e3193d-5c36-4a23-8839-b7849d641cd3" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-70" src="https://github.com/user-attachments/assets/174288a6-b96e-4e02-a2ea-00df102302e0" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-73" src="https://github.com/user-attachments/assets/c150b382-6ef9-4a51-aa01-61b9b7354ec2" />
+</td>
+  </tr>
+</table>
+</div>
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/fc610ea4-6b79-4c00-8014-afa076972878"> </video>
+
+</div>
+
+### No. 6: 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+@图片1@图片2@图片3@图片4@图片5，主观视角一镜到底的惊险过山车的镜头，过山车的速度越来越快。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="714" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-68" src="https://github.com/user-attachments/assets/e94a91e4-4fdd-410d-bb31-fbb03f9f999b" />
+</td>
+    <td><img width="1280" height="714" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-67" src="https://github.com/user-attachments/assets/d0c85360-fa1b-4911-aa54-9d4d1357965e" />
+</td>
+    <td><img width="1280" height="714" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-66" src="https://github.com/user-attachments/assets/7f6d54b7-914b-4fc8-9c06-34c069541da7" />
+</td>
+    <td><img width="1280" height="714" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-72" src="https://github.com/user-attachments/assets/465a46b9-a6f4-4e81-8be1-11f2f40df141" />
+</td>
+    <td><img width="1280" height="714" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-65" src="https://github.com/user-attachments/assets/a8697a3b-fc73-42c2-87b5-62806b8b9e68" />
+</td>
+  </tr>
+</table>
+</div>
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/181ca425-8f76-49f2-8031-95f2c9ea0cf2"> </video>
+
+</div>
+
+### No. 7: 
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+根据@图片1外景的镜头，第一人称主观视角快推镜头到木屋内的环境场景近景，一只小鹿@图片2和一只羊@图片3在围炉旁喝茶聊天，镜头推进特写茶杯的样式参考@图片4.
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-53" src="https://github.com/user-attachments/assets/ac22a942-fa31-4f90-959d-a0f29ba8a47d" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-50" src="https://github.com/user-attachments/assets/79e3193d-5c36-4a23-8839-b7849d641cd3" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-70" src="https://github.com/user-attachments/assets/174288a6-b96e-4e02-a2ea-00df102302e0" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-73" src="https://github.com/user-attachments/assets/c150b382-6ef9-4a51-aa01-61b9b7354ec2" />
+</td>
+  </tr>
+</table>
+</div>
+#### 🖼️ Generated Images
+
+<div align="center">
+
+<video src="https://github.com/user-attachments/assets/fc610ea4-6b79-4c00-8014-afa076972878"> </video>
+
+</div>
+
 ## 2.3.8 视频编辑
+
 ### No. 1
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
