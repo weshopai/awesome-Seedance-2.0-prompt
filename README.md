@@ -37,16 +37,16 @@ Why use WeShop AI?
 - [🤔 What is Seedance 2.0?](#-what-is-seedance-20)
 - [✍️ All Prompts](#-all-prompts)
   - [Basic Abilities](#basic-abilities)
-  - [2.3.1 一致性](#231-一致性)
-  - [2.3.2 高难度](#232-高难度)
-  - [2.3.3 创意模版](#233-创意模版)
-  - [2.3.4 剧情补全能力](#234-剧情补全能力)
-  - [2.3.5 视频延长](#235-视频延长)
-  - [2.3.6 音色](#236-音色)
-  - [2.3.7 镜头连贯性](#237-镜头连贯性)
-  - [2.3.8 视频编辑](#238-视频编辑)
-  - [2.3.9 音乐卡点](#239-音乐卡点)
-  - [2.3.10 情绪演绎](#2310-情绪演绎)
+  - [Consistency](#consistency)
+  - [Percise Camera Movements](#percise-camera-movements)
+  - [Creative Effects](#creative-effects)
+  - [Storytelling](#storytelling)
+  - [Extension](#extension)
+  - [Sound](#sound)
+  - [Continiuty](#continuity)
+  - [Video Edit](#video-edit)
+  - [Music](#music)
+  - [Emotion](#emotion)
 ---
 
 Ever since the days when we could only “tell stories” with text and the first/last frames, we’ve wanted to build a video model that truly understands what you’re trying to express.
@@ -169,7 +169,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
-## 2.3.1 一致性
+## Consistency
 
 ### No. 1: Man coming home
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
@@ -356,7 +356,7 @@ https://github.com/user-attachments/assets/8d5312fb-b2fc-417f-aa30-61171e68e8b6
 
 </div>
 
-## 2.3.2 高难度
+## Percise Camera Movements
 
 ### No. 1
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
@@ -579,7 +579,7 @@ https://github.com/user-attachments/assets/0cff1c54-1476-4eea-b8ab-18525a670f1a
 
 </div>
 
-## 2.3.3 创意模版
+## Creative Effects
 ### No. 1
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
@@ -857,7 +857,8 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 
 </div>
 
-## 2.3.4 剧情补全能力
+## Storytelling
+
 ### No. 1: Funny comics
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
@@ -939,7 +940,7 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 
 </div>
 
-## 2.3.5 视频延长
+## Extension
 ### No. 1: Creative Ads
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
@@ -1051,7 +1052,7 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 
 </div>
 
-## 2.3.6 音色
+## Sound
 
 ### No. 1: 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
@@ -1330,9 +1331,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 </div>
 
-
-
-## 2.3.7 镜头连贯性
+## Continuity
 
 ### No. 1: 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
@@ -1560,7 +1559,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 </div>
 
-## 2.3.8 视频编辑
+## Video Edit
 
 ### No. 1
 
@@ -1723,7 +1722,7 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 </div
 
 
-## 2.3.9 音乐卡点
+## Music
 ### No. 1
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
@@ -1796,7 +1795,8 @@ https://github.com/user-attachments/assets/957ff7bc-fc5e-4500-a79e-982e98e1f343
 
 </div
 
-## 2.3.10 情绪演绎
+## Emotion
+
 ### No. 1
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
