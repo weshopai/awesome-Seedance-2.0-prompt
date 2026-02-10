@@ -171,7 +171,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 ## Consistency
 
-### No. 1: Man coming home
+### No. 1
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
@@ -195,7 +195,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
-### No. 2: Theatrical performance
+### No. 2
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
@@ -233,15 +233,15 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 #### reference
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/d1c59023-c223-4e97-84d6-8b6cc049d97d"> </video>
-  
+<img width="1280" height="717" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-8" src="https://github.com/user-attachments/assets/adb94b93-987b-4cce-ba3e-83d1ffe75fdb" />
+
 </div>
 
 #### 🖼️ Generated Images
 
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/25b864f1-102d-4cf6-8c78-f381dafea158"> </video>
+https://github.com/user-attachments/assets/f812c734-d66e-44bc-9752-bd2f510d697b
 
 </div>
 
