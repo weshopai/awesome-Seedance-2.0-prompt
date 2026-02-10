@@ -343,7 +343,7 @@ https://github.com/user-attachments/assets/c7b09bb8-9529-4949-903f-e9d6660d2ab6
 </td>
     <td><img width="1280" height="720" alt="1-7-reference4" src="https://github.com/user-attachments/assets/66491595-ede0-496c-af21-6be46ec02dda" />
 </td>
-    <td><video src="https://github.com/user-attachments/assets/cdab9802-c849-4137-a061-db5b72846c0c"></video>
+    <td><video src="https://github.com/user-attachments/assets/cdab9802-c849-4137-a061-db5b72846c0c"></video></td>
   </tr>
 </table>
 </div>
@@ -377,7 +377,7 @@ https://github.com/user-attachments/assets/8d5312fb-b2fc-417f-aa30-61171e68e8b6
 </td>
     <td><img width="1280" height="960" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-3" src="https://github.com/user-attachments/assets/332b3e96-34d4-43e8-90f9-8f0e83a0a884" />
 </td>
-    <td><video src="https://github.com/user-attachments/assets/8adf33e0-4f05-4746-8069-34fb833a4dbd"></video>
+    <td><video src="https://github.com/user-attachments/assets/8adf33e0-4f05-4746-8069-34fb833a4dbd"></video></td>
   </tr>
 </table>
 </div>
@@ -413,7 +413,7 @@ https://github.com/user-attachments/assets/2548e21d-0158-421c-83e0-9f4a2868bdd8
 </td>
     <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-24" src="https://github.com/user-attachments/assets/036f3702-33f3-473c-b484-827ad5bd96e4" />
 </td>
-    <td><video src="https://github.com/user-attachments/assets/5bde447c-9c0e-4edf-a61e-dc04e38cde23"></video>
+    <td><video src="https://github.com/user-attachments/assets/5bde447c-9c0e-4edf-a61e-dc04e38cde23"></video></td>
   </tr>
 </table>
 </div>
@@ -442,15 +442,7 @@ https://github.com/user-attachments/assets/ba4ab046-b174-4624-a37c-64f9c25a2e09
   <tr>
     <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-jimeng-2026-02-04-9265-科幻平板电脑正面展示图，在画面中心，全身，屏幕上正在运行的数据" src="https://github.com/user-attachments/assets/639526e7-2536-4125-a852-967b9745b1b0" />
 </td>
-    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-21" src="https://github.com/user-attachments/assets/9add3adf-e616-4c42-931b-07e151d2be23" />
-</td>
-    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-22" src="https://github.com/user-attachments/assets/dd23f68b-beb1-4086-b1a0-93e99f4411e0" />
-</td>
-    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-23" src="https://github.com/user-attachments/assets/e877acb2-bcd3-4258-bb39-9f8151a1f629" />
-</td>
-    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-24" src="https://github.com/user-attachments/assets/036f3702-33f3-473c-b484-827ad5bd96e4" />
-</td>
-    <td><video src="https://github.com/user-attachments/assets/4feb3210-84c3-48a2-a292-bdacdc0bcdb6"></video>
+    <td><video src="https://github.com/user-attachments/assets/4feb3210-84c3-48a2-a292-bdacdc0bcdb6"></video></td>
   </tr>
 </table>
 </div>
@@ -463,11 +455,159 @@ https://github.com/user-attachments/assets/788e61fd-e4fa-4b0d-b39a-067b4a4e02c8
 
 </div>
 
+### No. 4
+![Language-中](https://img.shields.io/badge/Language-中-orange)
 
+#### 📝 Prompt
 
+```
+@图片1的女星作为主体，参考@视频1的运镜方式进行有节奏的推拉摇移，女星的动作也参考@视频1中女子的舞蹈动作，在舞台上活力十足地表演
+```
 
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td>![image (9)](https://github.com/user-attachments/assets/124b5261-3825-4790-ac09-ea5ee2dcb5cd)
+</td>
+    <td><video src="https://github.com/user-attachments/assets/9cf25852-f93d-45b8-8885-f85ebf33762f"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/db04ad9d-13b0-4916-a1b5-634c1f5ea063
+
+</div>
+
+### No. 5
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+
+```
+参考@图1@图2长枪角色，@图3@图4双刀角色，模仿@视频1的动作，在@图5的枫叶林中打斗
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td>
+<img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-13" src="https://github.com/user-attachments/assets/5995aa7c-7581-4abb-9d0e-f109add4b691" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-14" src="https://github.com/user-attachments/assets/24859b7a-b7e6-41c1-8ff8-c66b723058c0" />
+</td>
+    <td>
+<img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-15" src="https://github.com/user-attachments/assets/3523eb4c-01c2-4391-ab85-09586765c1c7" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-16" src="https://github.com/user-attachments/assets/319ad7e6-f4ee-48e1-a385-e5f3c01fe60f" />
+</td>
+    <td><img width="1280" height="720" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-19" src="https://github.com/user-attachments/assets/4e6add67-a9a2-4132-a9ba-a7f3520e52d5" /></td>
+    <td><video src="https://github.com/user-attachments/assets/1a8c0c9c-09d2-4d23-ae06-0063d52b3ecf"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/4983bde0-f7e2-4d4b-a52f-bb57ce1854a1
+
+</div>
+
+### No. 6
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+参考视频1的人物动作，参考视频2的环绕运镜镜头语言，生成角色1和角色2的打斗场面，打斗发生在星夜中，打斗的过程中有白色灰尘扬起，打斗场面非常华丽，气氛十分紧张。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td>
+<img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-17" src="https://github.com/user-attachments/assets/e14913a8-7e6a-4d8b-9097-4d14bd0a1b94" />
+</td>
+    <td><img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-18" src="https://github.com/user-attachments/assets/c77aadc5-090f-4f4c-948c-ebf4e6e8ced6" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/450b3dc8-c403-4d8b-807a-86be41300535"></video></td>
+    <td><video src="https://github.com/user-attachments/assets/e3ee273c-b209-4fd3-813c-2105e4d06b6f"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/4f850e0b-fd94-401b-83f0-602cb4364a31
+
+</div>
+
+### No. 7
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+参考视频1的运镜、画面切换节奏，拿图片1的红色超跑进行复刻。
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td>
+<img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-17" src="https://github.com/user-attachments/assets/e14913a8-7e6a-4d8b-9097-4d14bd0a1b94" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/be04648e-09c8-4220-9c2b-290475646f08"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/0cff1c54-1476-4eea-b8ab-18525a670f1a
+
+</div>
 
 ## 2.3.3 创意模版
+### No. 1
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+将@视频1的素人换成女生，长相参考@图片1；月神的cg形象换成天使，形象参考@图片2，女生蹲下时背后长出翅膀，翅膀挥动时掠过镜头，实现转场，并参考@视频1的运镜和转场效果，从天使的瞳孔进入下一场景，从空中俯拍天使（盘旋的翅膀对应瞳孔），镜头下移并跟随天使正脸，抬手时镜头后拉，展示出背景天使的石像，全程一镜到底
+```
+
+#### reference
+<div align="center">
+<table>
+  <tr>
+    <td>
+<img width="1440" height="2560" alt="🎬 Seedance 2 0 使用手册（全新多模态创作体验）-image-17" src="https://github.com/user-attachments/assets/e14913a8-7e6a-4d8b-9097-4d14bd0a1b94" />
+</td>
+    <td><video src="https://github.com/user-attachments/assets/be04648e-09c8-4220-9c2b-290475646f08"></video></td>
+  </tr>
+</table>
+</div>
+
+#### 🖼️ Generated Images
+
+<div align="center">
+
+https://github.com/user-attachments/assets/0cff1c54-1476-4eea-b8ab-18525a670f1a
+
+</div>
+
 
 ## 2.3.4 剧情补全能力
 ### No. 1: Funny comics
