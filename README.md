@@ -219,7 +219,7 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 </div>
 
-### No. 3: Drama Trailer 
+### No. 3
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
@@ -245,7 +245,7 @@ https://github.com/user-attachments/assets/f812c734-d66e-44bc-9752-bd2f510d697b
 
 </div>
 
-### No. 4: Chess Game 
+### No. 4
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
@@ -355,6 +355,8 @@ https://github.com/user-attachments/assets/c7b09bb8-9529-4949-903f-e9d6660d2ab6
 https://github.com/user-attachments/assets/8d5312fb-b2fc-417f-aa30-61171e68e8b6
 
 </div>
+
+---
 
 ## Percise Camera Movements
 
@@ -579,7 +581,10 @@ https://github.com/user-attachments/assets/0cff1c54-1476-4eea-b8ab-18525a670f1a
 
 </div>
 
+---
+
 ## Creative Effects
+
 ### No. 1
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
@@ -857,6 +862,8 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 
 </div>
 
+---
+
 ## Storytelling
 
 ### No. 1: Funny comics
@@ -1000,7 +1007,7 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 
 </div>
 
-### No. 2: Afternoon Sunshine
+### No. 3: Afternoon Sunshine
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
@@ -1026,7 +1033,7 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 
 </div>
 
-### No. 2: skateboard boy
+### No. 4: skateboard boy
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
 
 #### 📝 Prompt
@@ -1051,6 +1058,8 @@ https://github.com/user-attachments/assets/15f86b16-2997-436a-933a-4ec319efe286
 <video src="https://github.com/user-attachments/assets/c663549d-66df-468e-8ecf-14578a3614cd"> </video>
 
 </div>
+
+---
 
 ## Sound
 
