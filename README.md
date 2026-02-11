@@ -8,7 +8,7 @@
 
 > ⚠️ Copyright Notice: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please open an issue and we will remove it promptly.
 
-## 🤖 Try it in WeShop AI
+## 🤖 Try it in WeShop AI（Coming Soon...)
 <div align="center">
 
   [![Logo](/assets/WeShopAI.png)](https://weshop.ai)
