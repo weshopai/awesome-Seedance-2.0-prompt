@@ -1,7 +1,7 @@
 # 🤖 Awesome Seedance 2.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/weshopai/awesome-Z-Image-prompts)
+[![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/weshopai/awesome-Seedance-2.0-prompt)
 [![WeShop AI Seedance 2.0](https://img.shields.io/badge/WeShop%20AI-Seedance%202.0-7530FE)](https://www.weshop.ai/tools/z-image)
 
 > A collection of prompts for Seedance 2.0
