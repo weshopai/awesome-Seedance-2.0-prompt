@@ -64,6 +64,51 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 ## 📋 All Prompts
 
+### No.6
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+```
+真人实拍风格，一位美丽的留着黑色波浪长发的少女，穿着粉色露脐装和瑜伽裤要求性感，皮肤白皙，正随着Future House风格的DJ舞曲俏皮地舞动，舞蹈动作包含俏皮的摆胯、手臂波浪步和定点pose，且与音乐节拍完全吻合；镜头会跟着音乐节拍前后推拉运镜，背景是在卧室里面，顶部有柔和的聚光灯打下来照亮少女，整体光影柔和、氛围感强，画面比例为9:16。排除：模糊，低清，噪点，水印，文字，logo，扭曲，变形，五官崩坏，动作僵硬，画面抖动，比例失调。
+```
+
+#### 🖼️ Result
+
+<div align="center"></div>
+
+### No.5
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+```
+In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresses plainly. She is wearing plain clothes, with a lot of lake blue paint on her left hand and a little gray paint on her right hand. Then she first raised her right hand with a little gray paint, and the word "gray" appeared in the picture. Then she put down her right hand and raised her left hand with more lake blue paint, and the word "lake blue" appeared in the picture. Then she put down her left hand. Rubbing the paint between the palms of the two hands, the paint in the hand turned silver-blue, and the words "silver-blue" appeared in the picture. Then, she closed her hands, palms facing each other, blocked the camera, and then removed it. The girl changed the scene, wearing exquisite and beautiful Hanfu. With exquisite and beautiful makeup, the girl becomes more beautiful. At this time, the technique of photo photography is used to present a texture similar to film photography. The main color tone of the picture is silver-blue, exuding an atmosphere of prosperity, elegance, and a hint of charm. The main image has the Dardin effect, wearing bustling silver jewelry on the head, with a beautiful sense of transparency, showing the beauty of disaster for the country and the people, and also carrying a decadent and lazy temperament, with a few strands of broken hair floating in the air. The main body faces the picture, holding a silver and white folding fan. The girl first uses the folding fan to cover the lower half of her face, revealing only a pair of captivating eyes. Then she moved the folding fan down, revealing her entire face with a stunning face. The picture combines textured lighting with natural light, creating a strong contrast of light and shadow with strong gray sidelight and Rembrandt light
+```
+
+#### 🖼️ Result
+
+<div align="center">
+
+https://github.com/user-attachments/assets/c294bacd-7907-4ca7-8647-577299dcb135
+
+</div>
+
+
+### No.4
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+```
+真人实拍风格，一位美丽的留着黑色波浪长发的少女，穿着白色露脐装和jk短裙，要求性感，皮肤白皙，正随着《胜利之舞》DJ舞曲俏皮地舞动，舞蹈动作包含俏皮的摆胯、手臂波浪步和定点pose，且与音乐节拍完全吻合；镜头会跟着音乐节拍前后推拉运镜，背景是卧室里面，顶部有柔和的聚光灯打下来照亮少女，整体光影柔和、氛围感强，画面比例为9:16。排除：模糊，低清，噪点，水印，文字，logo，扭曲，变形，五官崩坏，动作僵硬，画面抖动，比例失调。模型 2.0，比例 9:16，时长 10s。
+```
+
+#### 🖼️ Result
+
+<div align="center">
+
+https://github.com/user-attachments/assets/aeae2779-76ae-477d-9e3c-eecdac2db06d
+
+</div>
+
 ### No.3
 
 ![Language-中](https://img.shields.io/badge/Language-中-orange)
