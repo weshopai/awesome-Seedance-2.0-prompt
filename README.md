@@ -64,6 +64,59 @@ Seedance 2.0 supports four input modalities—image, video, audio, and text—of
 
 ## 📋 All Prompts
 
+### No.3
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+```
+超高清纯欲风美女变装短视频，电影级柔焦柔光，清透磨皮质感，肤色白皙粉嫩，画面干净温柔，细节细腻。
+场景是温馨卧室，浅色系温柔背景，暖黄柔和光影，氛围感拉满。前期是慵懒居家造型，宽松软糯上衣，自然素颜感淡妆，头发松散温柔，表情干净无辜，动作松弛慵懒，低头浅笑、轻撩头发，纯欲感拉满。
+随着音乐卡点完成丝滑变装，转场自然柔和，光线变得更温柔朦胧。变装后是精致纯欲女神造型，清透妆容，眼妆淡粉细闪，唇色水润嫩粉，肤色白皙，发型温柔卷曲，碎发精致，身穿修身温柔小吊带，搭配精致细巧项链、耳饰，气质温柔又撩人。
+人物姿态优雅松弛，眼神干净又带点小魅惑，动作轻柔舒缓，氛围感十足。镜头以近景特写为主，运镜平稳温柔，突出前后气质对比。
+整体色调暖粉温柔，低饱和高级感，动态自然流畅，无崩坏、无扭曲，画质细腻高清，节奏舒缓卡点，纯欲天花板，温柔又撩人，完美呈现高级纯欲变装效果。
+```
+
+#### 🖼️ Result
+
+<div align="center">
+
+https://github.com/user-attachments/assets/b4d8e9fe-4069-46c6-939d-66c42bd93ea7
+
+</div>
+
+### No.2
+
+![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
+```
+A stunning mermaid bursts upward from the ocean at high speed, water exploding around her in slow motion. As she rises into the air, the camera begins an orbiting cinematic move around her. Her shimmering scales glow in the sunlight while her body twists gracefully. Mid-air, she transforms seamlessly into a same-size dragonfly — wings unfolding, iridescent and hyper-detailed. The transformation is fluid and dramatic, Hollywood-style. The camera completes its orbit as the newly formed dragonfly catches the light, then darts away into the sky with elegant speed. Ultra-realistic, breathtaking, highly detailed, cinematic lighting, dramatic atmosphere.
+```
+
+#### 🖼️ Result
+
+<div align="center">
+
+https://github.com/user-attachments/assets/abe4a948-6270-4acf-8170-bb10d1f2ea3e
+
+</div>
+
+### No.1
+
+![Language-中](https://img.shields.io/badge/Language-中-orange)
+
+#### 📝 Prompt
+```
+卧室场景照片，卧室一点凌乱但少女感十足 画面的主体是一位超高颜值的美少女，合理冬季露肩穿搭，一位冷白皮的女生复古的斜刘海，半扎的长发蓬松又慵懒。她身材娇小年轻，她散发着纯欲的偶像气质，皮肤白皙冷白皮，摆pose随机自然 表情自然可爱随机 这是一个用平庸的iPhone 手机拍的照片（不要出现手机本体），图片略带动态模糊，角度尴尬，构图拙劣，随手一拍的快照风格，不经意间的抓拍，低画质 上半身特写镜头 画质颗粒感明显 日常vlog
+```
+
+#### 🖼️ Result
+
+<div align="center">
+
+https://github.com/user-attachments/assets/a1fa9463-83db-4476-8947-baff12157d85
+
+</div>
+
 ### Basic Abilities
 
 ### No. 1: Girl hanging clothes
